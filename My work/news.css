@@ -1,0 +1,178 @@
+
+body{
+    background-image: url(body.jpg);
+    
+}
+
+.main{
+    color:#000000 ;
+    margin-left: 20px;
+    margin-top: 40px;
+    font-size: 25px;
+    margin-left: 10%;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.img-main{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 40px;
+}
+.image1{
+    height: 280px;
+    width: 500px;
+    background-image: url(photo\ 14.avif);
+    background-size: 100% 100%;
+    border-radius: 15px;
+    
+}
+.image2
+{
+    background-image: url(photoo=\ 2.avif);
+    height: 280px;
+    width: 500px;
+    background-size: 100% 100%;
+    border-radius: 15px;
+    margin-left: 40px
+}
+
+.img{
+    transition: 0.15s ease;
+}
+.img:hover{
+    transform: scale(1.05);
+}
+
+
+.msg-main{
+    display: flex;
+    color:#020000 ;
+    margin-left: 50px;
+    font-size: 20px;
+    
+
+}
+
+.msg{
+    height: 100px;
+    width: 40%;
+    columns: rgb(6, 0, 0);
+}
+
+.msg1{
+    margin-left: 90px;
+}
+
+#msg{
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 700;
+
+}
+
+#msg1-child{
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 300;
+    color: rgba(0, 0, 0, 0.7);
+
+}
+
+
+.main-panel{
+    width: 90%;
+    
+    height: 1600px;
+    margin-top: 60px;
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.panel-img{
+    height: 115px;
+    width: 200px;
+    border-radius: 15px;
+   
+    background-size: 100% 100%;
+}
+.panel1{
+    height: 135px;
+    width: 90%;
+    display: flex;
+    transition: 0.15s ease;
+
+
+}
+.panel1:hover{
+   transform: scale(1.05);
+   
+}
+.panel-msg{
+    margin-left: 20px;
+
+
+}
+
+.fotr{
+    background-color: #ffffff;
+    height: 700px;
+    width: 100%;
+}
+
+.fotr i{
+    margin-left: 20px;
+    margin-top: 20px;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+.fa-facebook{
+    margin-left: 15px;
+}
+.p{
+    margin-top: 7px;
+    height: 20px;
+    color: rgba(18, 17, 17, 0.573);
+    margin-left: 10px;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: sans-serif;
+    
+}
+
+.k{
+    margin-left: 20px;
+    font-family: sans-serif;
+    display: flex;
+}
+.m{
+    margin-left: 20px;
+    color: rgba(18, 17, 17, 0.573);
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+.l{
+    margin-left: 20px;
+    font-family: sans-serif;
+    display: flex;
+}
+.d{
+    margin-left: 20px;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+.x{
+    display: flex;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+.kamal{
+    
+    margin-left: 1200px;
+}
+ .kamal i{
+    font-size: 50px;
+ }
